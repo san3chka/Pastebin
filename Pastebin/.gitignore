@@ -1,0 +1,7 @@
+appsettings.json
+appsettings.Development.json 
+Properties  
+bin
+obj
+Pastebin.csproj
+Pastebin.http
